@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Santhosh",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "axios": "^1.6.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "graphql": "^16.8.1"
+  }
+}
